@@ -1,6 +1,6 @@
 # fairness_analysis_example
 Fairness analysis of a dataset using [aif360 Python library](https://pypi.org/project/aif360/).
-This example notebook uses a [Kaggle Public Dataset](https://www.kaggle.com/balavashan/students-performance-dataset)
+The example notebook uses a [Kaggle Public Dataset](https://www.kaggle.com/balavashan/students-performance-dataset)
 
 I have used two metrics to analyze dataset fairness:
 
