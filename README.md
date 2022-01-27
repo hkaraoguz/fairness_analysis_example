@@ -20,7 +20,7 @@ The norm for this value should be between 0.8-1.0 for a fair dataset
 
 ![Statistical Parity Difference](docs/spd.png)
 
-This measure gives the difference between the probability of unprivileged group getting a positive outcome versus the probability of privileged group getting a positive outcome.
+This metric gives the difference between the probability of unprivileged group getting a positive outcome versus the probability of privileged group getting a positive outcome.
 
 * Values less than 0 indicate that, privileged group has higher proportion of predicted positive outcomes than unprivileged group.
 * Value 0 indicates that, there is no difference between two groups
